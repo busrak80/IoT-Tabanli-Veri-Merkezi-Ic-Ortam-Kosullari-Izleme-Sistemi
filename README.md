@@ -1,0 +1,1 @@
+# IoT-Tabanli-Veri-Merkezi-Ic-Ortam-Kosullari-Izleme-Sistemi
